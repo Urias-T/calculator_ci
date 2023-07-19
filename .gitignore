@@ -1,1 +1,8 @@
+# virtual environment
 calculator/
+
+# pytest
+.coverage
+
+# cache
+__pycache__
